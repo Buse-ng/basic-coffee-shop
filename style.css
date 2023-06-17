@@ -1,0 +1,50 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /*background: #F3FF93;*/
+    background: #EDD690;
+    margin: 20px 40px 20px 40px;
+    font-size: larger;
+
+}
+h1  {
+    text-align: center;
+    color: #1A4D2E;
+}
+
+li {
+    list-style-position: inside;
+    font-weight: bold;
+    color: #560D0D;
+    margin-left: 40%;
+    margin-right: 40%;
+
+}
+.aciklama {
+    color: #560D0D;
+    font-weight: bolder;
+    text-indent: 20px;
+}
+.sayfalar{
+    word-spacing: 18px;
+    text-align: center;
+    color: #F06F32;
+}
+a{
+    color: #F06F32;
+    cursor: pointer;
+}
+img{
+    width: 20%;
+    height: 20%;
+
+}
+ul{
+    color: #76A21E; ;
+}
+.urunler{
+    text-align: center;
+    color: #560D0D;
+}
+.resim{
+    font-weight: bold;
+}
